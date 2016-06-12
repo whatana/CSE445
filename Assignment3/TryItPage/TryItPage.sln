@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TryItPage", "D:\Documents\ASU\CS\CSE445 598\Assignment3\TryItPage\", "{533D600B-9F3B-4E9D-A7CC-90CAA4454432}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TryItPage", "D:\迅雷下载\CSE445-master(1)\Assignment3\TryItPage", "{533D600B-9F3B-4E9D-A7CC-90CAA4454432}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/TryItPage"
